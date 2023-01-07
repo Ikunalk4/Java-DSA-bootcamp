@@ -1,3 +1,4 @@
+// calculate the no of occourence of a specific digit in a num. 
 package com.first_java;
 import java.util.*;
 public class Counting_occurence {
