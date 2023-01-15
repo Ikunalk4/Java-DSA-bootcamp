@@ -1,2 +1,1 @@
-###### Java-DSA-bootcamp
-###### This repository is for practicing java language. 
+#######Programming Practice Repository! Here, I am sharing my journey as I learn and practice the Java language. You will find a variety of projects and exercises that I have completed to improve my understanding and skills in programming with Java. The projects include various topics from basic programming concepts to advanced features of the language. Feel free to take a look and let me know if you have any suggestions or feedback. I hope that my progress and solutions can also be helpful for other beginners who are learning Java.
