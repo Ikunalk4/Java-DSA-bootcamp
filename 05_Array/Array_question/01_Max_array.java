@@ -1,3 +1,4 @@
+// write a function to find max number from an array.
 package com.Array;
 import java.util.Arrays;
 public class Max_array {
@@ -14,7 +15,7 @@ public class Max_array {
 	static void Max(int[] arr, int max1) {
 		for(int i = 0; i < arr.length; i++) {
 			if(arr[i] > max1) {
-				max1 = arr[i];
+			max1 = arr[i];
 //				System.out.println(arr[i]);
 //				System.out.println("Max num: " + max1);
 			}
